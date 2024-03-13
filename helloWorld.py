@@ -4,3 +4,8 @@
 phrase = 'Hello World!'
 # Output of variable used.
 print (phrase)
+
+
+new_phrase = 'Git is Awesome!'
+# Output of new variable phrase
+print (new_phrase)
